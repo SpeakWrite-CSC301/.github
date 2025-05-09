@@ -1,9 +1,7 @@
 # 🗣️ SpeakWrite
 SpeakWrite is a speech-to-text-editing application designed for fast and intuitive writing without losing one's chain of thought. It transcribes your speech in real time and allows you to edit the resulting text using natural language commands such as:
 
-"Replace 'dog' with 'cat'"
-"Erase the second paragraph"
-"In brackets, write ‘Note: revisit this later.’"
+Replace 'dog' with 'cat'. Erase the second paragraph. In brackets, write ‘Note: revisit this later.’
 
 # 🚀 Features
 ### 🎙️ Real-Time Speech Transcription
